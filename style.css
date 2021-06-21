@@ -1,0 +1,33 @@
+.carousel-caption{
+
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);  
+    
+    bottom: initial;
+
+    
+}
+#card{
+  padding-left: 25px;
+  padding-top: 30px;
+}
+
+.container{
+    padding: 100px;
+    padding-top: 30px;
+}
+.star{
+    
+    margin: 5px;
+    background-color: rgba(6, 139, 24, 0.904);
+    color: white;
+    font-size: 12px;
+    border-radius:3px;
+    width: 29px;
+    height: 21px;
+    text-align: center;
+    line-height: 20px;
+}
+
+    
